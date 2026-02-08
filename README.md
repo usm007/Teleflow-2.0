@@ -4,8 +4,6 @@
 > **ACCESS:** [ROOT_GRANTED]
 > **PROTOCOL:** [SECURE_UPLINK]
 
-![Teleflow Terminal](https://via.placeholder.com/800x400.png?text=TELEFLOW+NETRUNNER+UI)
-
 **Teleflow** is a premium, high-performance Telegram video downloader with a **cinematic "Hacker" terminal interface**. Designed for those who want their tools to look as powerful as they are.
 
 ---
