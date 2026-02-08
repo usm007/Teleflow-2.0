@@ -23,7 +23,7 @@
 ### 1. CLONE THE REPOSITORY
 Initialize the local environment by cloning the source code.
 ```bash
-git clone [https://github.com/yourusername/teleflow.git](https://github.com/yourusername/teleflow.git)
+git clone [https://github.com/usm007/teleflow-2.0.git](https://github.com/usm007/teleflow-2.0.git)
 cd teleflow
 
 ```
