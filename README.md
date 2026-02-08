@@ -100,3 +100,8 @@ python main.py
 4.  Run `python main.py` and enjoy your new hacker terminal!
 
 ```
+
+### BUILDING AN EXE :
+```bash
+pyinstaller --noconfirm --onefile --console --name "Teleflow_Netrunner" --icon="netrunner.ico" --clean --hidden-import="rich" --collect-all="rich" --hidden-import="telethon" main.py
+```
